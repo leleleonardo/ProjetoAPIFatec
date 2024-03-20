@@ -1,0 +1,3 @@
+// npm i yarn --global para instalar o yarn - npx yrn add @types/cors - D
+
+npm run build para gerar pasta dist
